@@ -3,21 +3,21 @@
 <h3 align="center">Nomadic 3D Artist building awesome worlds </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
-- 🔭 A visual designer obsessed with [Telling Brand Stories](https://www.callmegrandpa.framer.website)
+- 🔭 A visual designer obsessed with [Telling Brand Stories](https://callmegrandpa.framer.website)
 
 - 🌱 I’m currently on a journey at **ALX BootCamp**
 
-- 👯 Fire up! let's collaborate on [Game Development](https://www.callmegrandpa.framer.website)
+- 👯 Fire up! let's collaborate on [Game Development](https://callmegrandpa.framer.website)
 
 - 🤝 Looking to push design barriers [Journey so far](https://www.linkedin.com/in/oluwatoniloba-erinle/)
 
-- 👨‍💻 All of my projects are available at [My Website](https://www.callmegrandpa.framer.website)
+- 👨‍💻 All of my projects are available at [My Website](https://callmegrandpa.framer.website)
 
 - 💬 Shoot! Ask me about **Design, 3D and Unreal Engine.**
 
 - 📫 How to reach me **erinleoluwatoniloba@gmail.com**
 
-- 📄 Interested in my experience? [My Résumé](https://www.callmegrandpa.framer.website)
+- 📄 Interested in my experience? [My Résumé](https://callmegrandpa.framer.website)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
