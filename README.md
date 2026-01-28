@@ -1,19 +1,20 @@
-[![MasterHead](https://cdn.myportfolio.com/22a98f0b-1b33-4dd5-a6b1-fbef71561c93/4e00776b-6d29-44c0-9c1c-1444d72d5bf2_rw_1920.png?h=c320958b601c8dbbe231aa440847b23c)](https://https://oluwatoniloba.myportfolio.com)
+[<img width="1585" height="399" alt="Banner" src="https://github.com/user-attachments/assets/180b1d89-4416-4b51-8aa8-85508e35081f" />
+]((https://callmegrandpa.framer.website/))
 <h1 align="center">Hey there 👋, I'm Oluwatoniloba please call me GrandpA </h1>
 <h3 align="center">Nomadic 3D Artist building awesome worlds </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
 
 - 🔭 A visual designer obsessed with [Telling Brand Stories](https://callmegrandpa.framer.website)
 
-- 🌱 I’m currently on a journey at **ALX BootCamp**
+- 🌱 I’m currently on a journey at **Cs50x**
 
 - 👯 Fire up! let's collaborate on [Game Development](https://callmegrandpa.framer.website)
 
 - 🤝 Looking to push design barriers [Journey so far](https://www.linkedin.com/in/oluwatoniloba-erinle/)
 
-- 👨‍💻 All of my projects are available at [My Website](https://callmegrandpa.framer.website)
+- 👨‍💻 Some of my projects are available at [My Website](https://callmegrandpa.framer.website)
 
-- 💬 Shoot! Ask me about **Design, 3D and Unreal Engine.**
+- 💬 Shoot! Ask me about **Design, Blender and Unreal Engine.**
 
 - 📫 How to reach me **erinleoluwatoniloba@gmail.com**
 
